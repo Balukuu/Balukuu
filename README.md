@@ -35,7 +35,6 @@ Like My Work?
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 👾 &nbsp; Fun fact: Cloud computing is someone else computer.
 - 📫 &nbsp; Reach me out: edgarbaluku@gmail.com.
-[![An image of @conradkash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/conradkash)](https://holopin.io/@conradkash)
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
